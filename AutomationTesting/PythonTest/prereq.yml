@@ -1,0 +1,5 @@
+EnvironmentDetails:
+  Browser: IE
+  TestEnvUrl: http://newtours.demoaut.com/
+  dirpath: C:/automation/config/
+  reportfile: C:/automation/config/Windows-7-6.1.7601-SP1-32bit-2019-03-17-16-07-10.txt

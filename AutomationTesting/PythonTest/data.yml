@@ -1,0 +1,4 @@
+UserDetails: {UserName: Mercury, Password: Mercury, FirstName: Testing, LastName: User,
+  PhoneNo: 0123456789, Email: testuser@test.com,
+  Add1: Flat 201, Add2: New Port Road, City: London, State: London, PostCode: WE6 7EG,
+  Country: UNITED KINGDOM , ConfirmPassword: Mercury}
